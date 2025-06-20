@@ -1,9 +1,8 @@
-<h1 align="center">🌐 Aryan's Developer Portfolio</h1>
+<h1 align="center">🌐 Developer Portfolio</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/heyoaryan/my-portfolio?style=social" alt="GitHub Stars">
   <img src="https://img.shields.io/github/forks/heyoaryan/my-portfolio?style=social" alt="GitHub Forks">
-  <img src="https://img.shields.io/github/license/heyoaryan/my-portfolio" alt="License">
 </p>
 
 <p align="center">🚀 A modern, responsive personal portfolio website built using React.js and Tailwind CSS.</p>
